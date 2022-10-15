@@ -14,4 +14,4 @@ Also, click the refresh button at top right to refresh the weather information.
 
 ## Contact
 Stephan Xi : stephan7.xi@gmail.com
-Project Link: 
+Project Link: https://github.com/2005lya/weather
