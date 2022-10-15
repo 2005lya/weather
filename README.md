@@ -11,3 +11,7 @@ Also, click the refresh button at top right to refresh the weather information.
 `git clone https://github.com/2005lya/weather.git`
 2. Install NPM packages   
 `npm install`
+
+## Contact
+Stephan Xi : stephan7.xi@gmail.com
+Project Link: 
