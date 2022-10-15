@@ -9,3 +9,4 @@ Also, click the refresh button at top right to refresh the weather information.
 ## Getting Started
 1. Clone the repo  
 `git clone https://github.com/2005lya/weather.git`
+2. Install NPM packages  `npm install`
