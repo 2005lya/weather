@@ -13,5 +13,5 @@ Also, click the refresh button at top right to refresh the weather information.
 `npm install`
 
 ## Contact
-Stephan Xi : stephan7.xi@gmail.com
+Stephan Xi : stephan7.xi@gmail.com   
 Project Link: https://github.com/2005lya/weather
