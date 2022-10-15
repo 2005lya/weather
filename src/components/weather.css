@@ -1,0 +1,88 @@
+.weather {
+    margin: 0 auto;
+    background: linear-gradient(#1f71ec, #26c8fa);
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-shrink:0
+}
+.today {
+   width: 60%;
+   display: flex;
+   flex-direction: column;
+   /* background-color: brown; */
+   justify-content: center;
+   margin: auto;
+   margin-bottom: 40px;
+   margin-top: 40px;
+}
+.city {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.date {
+    margin: auto;
+    color: white;
+}
+.btn {
+    cursor: pointer;
+}
+.temp {
+    margin: auto;
+    font-size: 100px;
+    color: #ffcf3c;
+}
+.weatherInfo {
+    margin: auto;
+    font-size: xx-large;
+    margin-bottom: 20px;
+    color: #ffcf3c;
+}
+.lowTemp {
+    margin: auto;
+    font-size: large;
+    color: white;
+}
+.day {
+    /* background-color: chocolate; */
+    width: 10%;
+}
+.listWeather {
+    /* background-color:cadetblue; */
+    width: 10%;
+}
+.wind{
+    /* background-color: cornflowerblue; */
+    width: 30%;
+}
+.listTemp {
+    /* background-color: cornsilk; */
+    width: 30%;
+}
+
+.sevenday {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    background-color: #e4f1fe;
+    margin: auto;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* border: 1px solid #000; */
+    margin-bottom: 40px;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid black;
+    justify-content: space-between;
+}
+.title {
+    font-size: small;
+}
+
+
